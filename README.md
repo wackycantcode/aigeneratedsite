@@ -1,4 +1,4 @@
-This repository utilizes Ollama and httplib to generate webpages on the fly whenever a request is made to the app.
+This repository utilizes Ollama and httplib to generate webpages on the fly whenever a request is made to the app using on-device AI.
 
 For instance, visiting [serverurl]/contact will prompt the AI to generate a page based on the “/contact” path.
 
