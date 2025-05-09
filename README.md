@@ -2,7 +2,7 @@ This repository utilizes Ollama and httplib to generate webpages on the fly when
 
 For instance, visiting [serverurl]/contact will prompt the AI to generate a page based on the “/contact” path.
 
-If you’re using Mac, you can download the prebuilt binary from the Releases section. Otherwise, follow these steps to build it manually:
+If you’re using Mac, you can download the prebuilt binary from the Releases section (Tags -> prerelease). Otherwise, follow these steps to build it manually:
 
 ## Building
 
