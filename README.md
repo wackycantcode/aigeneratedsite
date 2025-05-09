@@ -28,3 +28,11 @@ If you’re using Mac, you can download the prebuilt binary from the Releases se
 ``./aigeneratedsite``
 
 The speed of the server will depend on the speed of your computer. If your computer cannot keep up, you can choose a lighter model by modifying the Modelfile FROM parameter.
+
+## Dependencies
+
+Ollama (https://github.com/ollama/ollama)
+
+httplib (https://github.com/yhirose/cpp-httplib)
+
+JSON (https://github.com/nlohmann/json)
