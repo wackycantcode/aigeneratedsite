@@ -21,7 +21,7 @@ If you’re using Mac, you can download the prebuilt binary from the Releases se
 
 3. Build the C++ file located in the root of this repository.
 
-``g++ index.cpp -std=c++17 -o aigeneratedsite
+``g++ index.cpp -std=c++17 -o aigeneratedsite``
 
 4. Run the program by executing the following command:
 
